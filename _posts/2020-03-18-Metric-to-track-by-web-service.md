@@ -6,6 +6,7 @@ categories: [Metrics, Web-service]
 
 ## What to measure?
 We like the philosophy: measure everything. But sometimes we need a little inspiration to think of the specific metrics we should be measuring. To help get the creative juices flowing, we like to ask myself these kinds of questions:
+
 - We need a little inspiration to think about specific metrics that will deliver the most value for the team. To get to the specific metrics and alarm we want to have, we can answer some specific questions:
 - What are our customers trying to achieve when they use our software?
 - What decisions do customers have to make when using our software (click this or click that)? What do they choose?
