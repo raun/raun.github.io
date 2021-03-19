@@ -25,14 +25,14 @@ Eight different cultural styles can be mapped into the framework oriented around
 7. **Safety**: These workplaces are predictable, realistic, and risk-conscious, defined by planning and caution. 8% of companies rank Safety at the top in their culture profile. 
 8. **Order**: In these structured and methodical work environments, people play by the rules and tend to want to fit in. 15% of organizational culture highly prioritize order
 
-## Framework to decide our culture and take it into the right direction
-Organizational/Companies cultures is defined by the absolute and relative strength of these eight styles. Each of them has pros and cons and no style is inherently better than another.
+## Framework to decide your culture
+Organizational/Company's cultures is defined by the absolute and relative strength of these eight styles. Each of them has pros and cons and no style is inherently better than another.
 
 When assessing an organization’s culture, the degree of employee agreement about the organization’s cultural styles also matters. In the figure above, proximate circles represent similar employee views, while those in different quadrants indicate varying and often opposite views of the culture.
 
 If everyone within an organization/team, agrees on the attributes of the organization/team culture, you have got high convergence. If an organization has a culture that is aligned to its business environment and strategy, then this can correlate with higher employee engagement and customer orientation, but it also means that the culture would be much more difficult to change. If people are citing many different attributes, you have got low convergence. While this may be a bit chaotic at present, it can also be ripe for changing if you aspire to have different company culture. Once leaders know where their organizational culture falls within this framework, many recognize the need for change, which can entail strengthening some cultural styles while diminishing others.
 
-## How does this all fit in into different environment?
+## How does this all fit in?
 
 Research shows that Results and Caring are consistently ranked at or nearly at the top of everyone’s list, but other attributes tend to differ dependending on many factors such as region, industry, strategy and organizational design. 
 
