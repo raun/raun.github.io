@@ -5,7 +5,7 @@ categories: [Tech, Culture]
 ---
 
 ## What is culture?
-Culture defines what is encouraged, discouraged, accepted or rejected within a group/team and, when aligned with personal values and needs, can energized teams to work toward a shared purpose.
+Culture defines what is encouraged, discouraged, accepted or rejected within a group/team and, when aligned with personal values and needs, can energize teams to work toward a shared purpose.
 
 ### Two Primary dimensions of culture
 - **How people interact with each other**: Individuals and organizations alike tend to be oriented towards a way of working - *Independently* or *Interdependently*
